@@ -96,6 +96,7 @@
     width: 100%;
     height: 100%;
     background: url(../img/背景图.jpg) no-repeat 100% 100%;
+    background-size: 100%;
   }
   header{
     width: 100%;
